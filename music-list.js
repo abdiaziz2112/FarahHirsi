@@ -57,6 +57,7 @@ let allMusic = [
     artist: "Lesson E010",
     src: "E010"
   },
+  {
   name: "Teacher Farah Hirsi",
     artist: "Lesson E011",
     src: "E011"
