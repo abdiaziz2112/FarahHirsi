@@ -1,13 +1,3 @@
-// To add more song, just copy the following code and paste inside the array
-
-//   {
-//     name: "Here is the music name",
-//     artist: "Here is the artist name",
-//     img: "image name here - remember img must be in .jpg formate and it's inside the images folder of this project folder",
-//     src: "music name here - remember img must be in .mp3 formate and it's inside the songs folder of this project folder"
-//   }
-
-//paste it inside the array as more as you want music then you don't need to do any other thing
 
 let allMusic = [
 
@@ -66,6 +56,105 @@ let allMusic = [
     name: "Teacher Farah Hirsi",
     artist: "Lesson E010",
     src: "E010"
+  },
+  name: "Teacher Farah Hirsi",
+    artist: "Lesson E011",
+    src: "E011"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E012",
+    src: "E012"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E013",
+    src: "E013"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E014",
+    src: "E014"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E015",
+    src: "E015"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E016",
+    src: "E016"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E017",
+    src: "E017"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E018",
+    src: "E018"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E019",
+    src: "E019"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E020",
+    src: "E020"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E021",
+    src: "E021"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E022",
+    src: "E022"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E023",
+    src: "E023"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E024",
+    src: "E024"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E025",
+    src: "E025"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E026",
+    src: "E026"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E027",
+    src: "E027"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E028",
+    src: "E028"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E029",
+    src: "E029"
+  },
+  {
+    name: "Teacher Farah Hirsi",
+    artist: "Lesson E030",
+    src: "E030"
   },
 
 ];
